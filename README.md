@@ -16,8 +16,5 @@ SafeLink is a zero-install PWA that works with just a link. One-tap SOS + live v
 - Google Maps Platform  
 - Firebase (Push notifications)
 
-### Live Demo (Round 2 এ দিবো)
-Prototype already functional and tested.
-
 Submitted by Syed Mahfuz Hossain  
 Dhaka, Bangladesh
